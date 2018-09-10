@@ -1,0 +1,9 @@
+C:\Users\92011\source\repos\PowerSwithcer\PowerSwithcer\obj\Debug\PowerSwithcer.csproj.GenerateResource.cache
+C:\Users\92011\source\repos\PowerSwithcer\PowerSwithcer\obj\Debug\PowerSwithcer.csproj.CoreCompileInputs.cache
+C:\Users\92011\source\repos\PowerSwithcer\PowerSwithcer\obj\Debug\PowerSwithcer.csprojAssemblyReference.cache
+C:\Users\92011\source\repos\PowerSwithcer\PowerSwithcer\obj\Debug\PowerSwitcher.Properties.Resources.resources
+C:\Users\92011\source\repos\PowerSwithcer\PowerSwithcer\bin\Debug\PowerSwitcher.exe.config
+C:\Users\92011\source\repos\PowerSwithcer\PowerSwithcer\bin\Debug\PowerSwitcher.exe
+C:\Users\92011\source\repos\PowerSwithcer\PowerSwithcer\bin\Debug\PowerSwitcher.pdb
+C:\Users\92011\source\repos\PowerSwithcer\PowerSwithcer\obj\Debug\PowerSwitcher.exe
+C:\Users\92011\source\repos\PowerSwithcer\PowerSwithcer\obj\Debug\PowerSwitcher.pdb
